@@ -55,5 +55,5 @@ int main() {
 	string sPath = "C:\\Users\\" + std::string(username) + "\\AppData\\Local\\Temp";
 	ExecuteDelete(sPath);
 
-    getchar();
+   	getchar();
 }
